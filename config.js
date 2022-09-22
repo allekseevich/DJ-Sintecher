@@ -2,7 +2,8 @@ module.exports = {
 TOKEN: "MTAyMjUzOTI1MDY2NDc0Mjk4Ng.GDVuRu.sHqYnrXF6Znrek_0BSfHaCjilHh__gai5Tln2s",
 ownerID: "583989204350926861", //write your discord user id.
 botInvite: "", //write your discord bot invite.
-mongodbURL: "mongodb+srv://FOREST:0982079752Ss@djsintecher.o1lm9ci.mongodb.net/?retryWrites=true&w=majority", //write your mongodb url.
+mongodbURL: "mongodb+srv://djsintecher.o1lm9ci.mongodb.net/djsintecher?appName=mongosh+1.6.0", //write your mongodb url.
+authSource: "mongodb+srv://djsintecher.o1lm9ci.mongodb.net/djsintecher?appName=mongosh+1.6.0",
 status: 'Лучший музыкальный бот Лучшего Сервера',
 commandsDir: './commands', //Please don't touch
 language: "en", //en, tr, nl
