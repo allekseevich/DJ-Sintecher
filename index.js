@@ -99,4 +99,4 @@ app.get("/", (request, response) => {
 });
 app.listen(process.env.PORT);
 
-bot.login(process.env.token);
+client.login(process.env.token);
